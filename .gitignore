@@ -1,0 +1,9 @@
+node_modules
+sessao-whatsapp
+sessions.json
+# Não enviar dependências
+node_modules/
+
+# Não enviar arquivos de sessão do WhatsApp
+sessao-whatsapp/
+sessions.json
